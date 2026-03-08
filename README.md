@@ -44,7 +44,7 @@ Qwen_baseline_dataset.json
 
 7. Instruction-Based / Fine-tuned Generation
    
-Next, we generate responses using instruction-based prompting or fine-tuned models to observe improvements in response quality and hallucination reduction.
+Next, we generate responses using instruction-based prompting to observe improvements in response quality and hallucination reduction.
 
 Run the script:
 
